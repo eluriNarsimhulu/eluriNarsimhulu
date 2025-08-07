@@ -101,24 +101,6 @@ const narsimhulu = {
 - 🏗️ **Tech Stack:** React, Node.js, Express
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eluriNarsimhulu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluriNarsimhulu&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eluriNarsimhulu&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eluriNarsimhulu&theme=tokyo-night" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🏆 Achievements & Experience
@@ -134,7 +116,6 @@ const narsimhulu = {
 - 📈 Handled brand growth and business strategy
 
 ### 🎓 Academic Excellence
-- **🏆 SSC:** 98% - Exceptional performance
 - **🏆 Diploma CSE:** 92% - Outstanding academic record
 - **🎯 Currently pursuing:** B.Tech in AI/ML
 
@@ -174,13 +155,6 @@ const narsimhulu = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eluriNarsimhulu/eluriNarsimhulu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   
