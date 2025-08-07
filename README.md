@@ -15,12 +15,10 @@
 
 ```javascript
 const narsimhulu = {
-    pronouns: "He" | "Him",
     location: "Hyderabad, Telangana, India 📍",
-    education: "B.Tech AIML at Keshav Memorial Institute of Technology",
-    currentFocus: "GenAI & Drug Discovery 🧬",
+    education: "B.Tech AIML at Keshav Memorial Institute of Technology in Artificial Intelligence",
+    currentFocus: "GenAI & FullStack",
     interests: ["AI/ML", "Web Development", "Mobile Apps", "UI/UX Design"],
-    funFact: "I scored 98% in SSC and 92% in Diploma! 🎯"
 };
 ```
 
